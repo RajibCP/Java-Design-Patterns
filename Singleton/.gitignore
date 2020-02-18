@@ -12,3 +12,9 @@ bin/
 gen/
 out/
 release/
+
+# Legacy Eclipse project files
+.classpath
+.project
+.cproject
+.settings/
